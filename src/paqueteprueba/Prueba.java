@@ -7,6 +7,8 @@ public class Prueba {
 		System.out.println("Holaaaaaaaaaaaaaa");
 		
 		String nombre ="Pablo";
+		
+		System.out.println(nombre);
 	}
 
 }
